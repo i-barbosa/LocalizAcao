@@ -3,8 +3,6 @@
 **Hackathon Recriando a Cidade** · Trilha Segurança · Desafio #5 (também toca o Desafio #6 — denúncia)
 Prefeitura do Recife / Emprel · 19/09/2026 · Uninassau Graças
 
-Equipe: LATec FICR / Matryz — estudantes de Sistemas para Internet / ADS da FICR (Faculdade Católica Imaculada Conceição do Recife), Porto Digital.
-
 ---
 
 ## Sumário
